@@ -1,0 +1,11 @@
+package samplepackage;
+
+public class Mk 
+{
+	public void abc()
+	{
+		System.out.println("HElaj");
+		System.out.println("HElaj");
+	}
+
+}
